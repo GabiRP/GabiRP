@@ -1,5 +1,5 @@
 
-![Profile views](https://gpvc.arturio.dev/GabiRP)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRP&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/GabiRP)  
