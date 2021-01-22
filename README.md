@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/GabiRP)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiRP)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRP&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/GabiRP)  
