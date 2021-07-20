@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRP&show_icons=true&title_color=E90601&bg_color=0D1117&text_color=dfdfdf)  
 
-![GitHub metrics](https://metrics.lecoq.io/GabiRP)  
+![Metrics](https://metrics.lecoq.io/GabiRP?template=classic&lines=1&config.timezone=Europe%2FMadrid)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GabiRP)  
 
