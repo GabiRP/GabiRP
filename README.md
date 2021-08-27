@@ -6,7 +6,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRP&show_icons=true&title_color=E90601&bg_color=0D1117&text_color=dfdfdf)  
 
-![Metrics](https://github.com/GabiRP/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/GabiRP/GabiRP/blob/main/github-metrics.svg)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GabiRP)  
 
