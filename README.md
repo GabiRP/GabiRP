@@ -6,6 +6,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiRP&show_icons=true&title_color=E90601&bg_color=0D1117&text_color=dfdfdf)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GabiRP)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabiRP&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabiRP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
