@@ -8,4 +8,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GabiRP)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabiRP)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabiRP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
